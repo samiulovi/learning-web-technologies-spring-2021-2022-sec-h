@@ -1,0 +1,20 @@
+<students>
+
+<student>
+<serial>23</serial>
+<name>John Carter</name>
+<admission>25/12/2015</admission>
+</student>
+
+<student>
+<serial>20</serial>
+<name>Bob marshal</name>
+<admission>13/01/1999</admission>
+</student>
+
+<student>
+<serial>35</serial>
+<name>Clark kent</name>
+<admission>17/16/2005</admission>
+</student>
+</students>
